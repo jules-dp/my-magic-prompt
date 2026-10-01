@@ -14,6 +14,7 @@ cmd() {
     version | --ver | vers ) f_version;;
     age ) f_age;;
     ""  ) f_insult;;
+    uname ) f_uname;;
 
   esac
 }
@@ -85,6 +86,12 @@ f_version() {
 f_age() {
 
   echo "donne ton age, aller frr tkt donne mtn"
+}
+
+f_uname()  {
+
+  uname -a
+
 }
 
 main
