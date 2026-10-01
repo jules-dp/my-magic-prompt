@@ -72,7 +72,7 @@ f_date()  {
 
 f_about() {
 
-  echo "frr c'est la frappe du quartier ce logiciel ww"
+  echo "frr c'est la frappe du quartier ce logiciel ww, utilise le sah"
 }
 
 f_version() {
