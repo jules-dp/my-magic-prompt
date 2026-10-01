@@ -1,5 +1,9 @@
 #!/bin/bash
 source quit.sh
+source .env
+
+echo "Login : $LOGIN"
+echo "Password : $PASSWORD"
 
 cmd() {
   cmd=$1
