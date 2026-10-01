@@ -1,5 +1,5 @@
 MyMagicPrompt
 
-Permet de lancer des command
+Permet de lancer des commande
 
 Pour lancer : ./main.sh
